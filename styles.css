@@ -1,0 +1,25 @@
+h1{
+    color: purple;
+    font-family: 'Shantell Sans', cursive;
+    text-align: center;
+    
+}
+h3{
+    color: blue;
+    font-family: 'Mynerve', cursive;
+    text-align: center;
+}
+h4{
+    color: rgb(155, 145, 53);
+    font-family: 'Gajraj One', cursive;
+    text-align: center;
+    background-color: white; 
+}
+h2{
+    color: rgb(35, 68, 160);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+body{
+    background-color: rgb(178, 202, 121);
+}
